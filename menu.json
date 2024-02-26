@@ -1,0 +1,1483 @@
+{
+    "Location": {
+        "name": "KFC"
+    },
+    "Chicken": {
+        "C1": [
+            "Original Recipe",
+            3.5,
+            {
+                "nutritionalInfo": {
+                    "kcal": 400,
+                    "fat": 22,
+                    "protein": 28,
+                    "itemId": 4,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "C2": [
+            "Popcorn Chicken",
+            4,
+            {
+                "nutritionalInfo": {
+                    "kcal": 350,
+                    "fat": 20,
+                    "protein": 25,
+                    "itemId": 6,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "C4": [
+            "Hot Wings",
+            3,
+            {
+                "nutritionalInfo": {
+                    "kcal": 270,
+                    "fat": 18,
+                    "protein": 19,
+                    "itemId": 5,
+                    "allergens": [
+                        "wheat"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "C5": [
+            "Snackbox",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 69,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "C6": [
+            "Crispy Tenders",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 70,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "C7": [
+            "Original Piece",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 76,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "C8": [
+            "Tender Chicken",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 81,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ]
+    },
+    "Drinks": {
+        "D1": [
+            "Iced Tea",
+            2.8,
+            {
+                "nutritionalInfo": {
+                    "kcal": 340,
+                    "fat": 17,
+                    "protein": 4,
+                    "itemId": 12,
+                    "allergens": [
+                        "wheat"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "D2": [
+            "Pepsi",
+            2.8,
+            {
+                "nutritionalInfo": {
+                    "kcal": 170,
+                    "fat": 10,
+                    "protein": 2,
+                    "itemId": 9,
+                    "allergens": [
+                        "dairy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "D3": [
+            "7Up",
+            2.8,
+            {
+                "nutritionalInfo": {
+                    "kcal": 340,
+                    "fat": 17,
+                    "protein": 4,
+                    "itemId": 10,
+                    "allergens": [
+                        "wheat"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "D4": [
+            "Fanta",
+            2.8,
+            {
+                "nutritionalInfo": {
+                    "kcal": 170,
+                    "fat": 10,
+                    "protein": 2,
+                    "itemId": 11,
+                    "allergens": [
+                        "dairy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "D5": [
+            "Sourcy",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "D6": [
+            "Tropicana Apple",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "D7": [
+            "Guava",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "D8": [
+            "Tea",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "D9": [
+            "Latte",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "D10": [
+            "Espresso",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "D11": [
+            "Coffee",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "D12": [
+            "Sisi",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "D13": [
+            "Fernandes",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "D14": [
+            "Lipton",
+            15,
+            {
+                "available": false
+            }
+        ]
+    },
+    "Burgers": {
+        "B1": [
+            "Crunch Burger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 77,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B2": [
+            "Original Fillet Breaded",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 84,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B3": [
+            "Original Fillet",
+            15,
+            {
+                "available": false
+            }
+        ],
+        "B4": [
+            "Filet Burger",
+            4.7,
+            {
+                "nutritionalInfo": {
+                    "kcal": 400,
+                    "fat": 20,
+                    "protein": 27,
+                    "itemId": 3,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B5": [
+            "Zinger Burger",
+            4.5,
+            {
+                "nutritionalInfo": {
+                    "kcal": 451,
+                    "fat": 25,
+                    "protein": 28,
+                    "itemId": 1,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B6": [
+            "Tower Burger",
+            5.2,
+            {
+                "nutritionalInfo": {
+                    "kcal": 500,
+                    "fat": 30,
+                    "protein": 30,
+                    "itemId": 2,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B7": [
+            "Veggie Burger",
+            10,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 63,
+                    "allergens": [
+                        "whey",
+                        "soy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B8": [
+            "Fire Zinger Stacker",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 64,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B9": [
+            "Fire Zinger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 100,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 65,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B10": [
+            "Colonel Stacker",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 66,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B11": [
+            "Colonel Burger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 67,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B12": [
+            "Veggie Tender",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 71,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B13": [
+            "Filet Bites",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 68,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B14": [
+            "Original Burger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 74,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B15": [
+            "Zinger Burger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 75,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B16": [
+            "Cheeseburger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 82,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "B17": [
+            "Zinger Filet",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 83,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ]
+    },
+    "Sauces": {
+        "S1": [
+            "Apple Sauce",
+            15,
+            {
+                "available": false
+            }
+        ]
+    },
+    "Side dishes": {
+        "SD1": [
+            "Coleslaw",
+            1.7,
+            {
+                "nutritionalInfo": {
+                    "kcal": 170,
+                    "fat": 10,
+                    "protein": 2,
+                    "itemId": 7,
+                    "allergens": [
+                        "dairy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "SD2": [
+            "Fries",
+            2.5,
+            {
+                "nutritionalInfo": {
+                    "kcal": 340,
+                    "fat": 17,
+                    "protein": 4,
+                    "itemId": 8,
+                    "allergens": [
+                        "wheat"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "SD3": [
+            "Corn",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 73,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ]
+    },
+    "Desserts": {
+        "DE1": [
+            "Chocolate Sundae",
+            2.5,
+            {
+                "nutritionalInfo": {
+                    "kcal": 220,
+                    "fat": 9,
+                    "protein": 3,
+                    "itemId": 13,
+                    "allergens": [
+                        "dairy",
+                        "soy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "DE2": [
+            "Apple Pie",
+            2.2,
+            {
+                "nutritionalInfo": {
+                    "kcal": 250,
+                    "fat": 12,
+                    "protein": 2,
+                    "itemId": 14,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "DE3": [
+            "Ice Cream",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 95,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ]
+    },
+    "Vegetarian": {
+        "V1": [
+            "Veggie",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 72,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ],
+        "V2": [
+            "Veggie Tenders",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 78,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            }
+        ]
+    },
+    "Menus": {
+        "M1": {
+            "name": "Meal Deal for 2",
+            "price": 4.95,
+            "contents": [
+                [
+                    "B16",
+                    2
+                ],
+                [
+                    "C4",
+                    4
+                ],
+                [
+                    "SD2",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "S,L"
+                }
+            ]
+        },
+        "M2": {
+            "name": "Meal Deal for 1",
+            "price": 4.95,
+            "contents": [
+                [
+                    "B16",
+                    1
+                ],
+                [
+                    "C6",
+                    2
+                ],
+                [
+                    "SD2",
+                    1
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "S"
+                }
+            ]
+        },
+        "M3": {
+            "name": "2 Original pieces meal",
+            "price": 30,
+            "contents": [
+                [
+                    "C7",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "M"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ]
+        },
+        "M4": {
+            "name": "Fire Zinger Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B9",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "M"
+                }
+            ]
+        },
+        "M5": {
+            "name": "Zinger Burger Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B5",
+                    1
+                ],
+                [
+                    "C4",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M6": {
+            "name": "Colonel Stacker Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B10",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M7": {
+            "name": "Snackbox 3 Filet Bites",
+            "price": 30,
+            "contents": [
+                [
+                    "B13",
+                    3
+                ],
+                [
+                    "SD2",
+                    1
+                ]
+            ]
+        },
+        "M8": {
+            "name": "Snackbox 3 Hot Wings",
+            "price": 30,
+            "contents": [
+                [
+                    "C4",
+                    3
+                ],
+                [
+                    "SD2",
+                    1
+                ]
+            ]
+        },
+        "M9": {
+            "name": "Colonel Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B11",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M10": {
+            "name": "Snackbox 1 Original piece",
+            "price": 30,
+            "contents": [
+                [
+                    "SD2",
+                    1
+                ],
+                [
+                    "C7",
+                    1
+                ]
+            ]
+        },
+        "M11": {
+            "name": "Veggie Burger Meal",
+            "price": 15,
+            "contents": [
+                [
+                    "B7",
+                    1
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                }
+            ]
+        },
+        "M12": {
+            "name": "Original Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B14",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M13": {
+            "name": "3 Original pieces Boxmeal",
+            "price": 30,
+            "contents": [
+                [
+                    "C7",
+                    3
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M14": {
+            "name": "Variety Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "C4",
+                    3
+                ],
+                [
+                    "C7",
+                    1
+                ],
+                [
+                    "C6",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                }
+            ]
+        },
+        "M15": {
+            "name": "4 Veggie Tender meal",
+            "price": 30,
+            "contents": [
+                [
+                    "C4",
+                    6
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M16": {
+            "name": "Veggie Burger Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "V2",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M17": {
+            "name": "8 Hot Wings Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "C4",
+                    8
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M18": {
+            "name": "Twister meal",
+            "price": 30,
+            "contents": [
+                [
+                    "C6",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M19": {
+            "name": "Veggie Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "V2",
+                    5
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M20": {
+            "name": "4 Veggie Tender meal",
+            "price": 30,
+            "contents": [
+                [
+                    "V2",
+                    4
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ]
+        },
+        "M21": {
+            "name": "Boneless bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "C6",
+                    10
+                ],
+                [
+                    "B13",
+                    6
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                }
+            ]
+        },
+        "M22": {
+            "name": "Snack box 3 Filet Bites",
+            "price": 30,
+            "contents": [
+                [
+                    "B13",
+                    3
+                ],
+                [
+                    "SD2",
+                    1
+                ]
+            ]
+        },
+        "M23": {
+            "name": "Snackbox 1 Original piece",
+            "price": 30,
+            "contents": [
+                [
+                    "C7",
+                    1
+                ],
+                [
+                    "SD2",
+                    1
+                ]
+            ]
+        },
+        "M24": {
+            "name": "Snackbox 2 Crispy Tenders",
+            "price": 30,
+            "contents": [
+                [
+                    "SD2",
+                    1
+                ],
+                [
+                    "C6",
+                    2
+                ]
+            ]
+        },
+        "M25": {
+            "name": "Twister meal",
+            "price": 30,
+            "contents": [
+                [
+                    "C6",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M26": {
+            "name": "Zinger Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B15",
+                    1
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ]
+        },
+        "M27": {
+            "name": "Original Burger Boxmeal",
+            "price": 30,
+            "contents": [
+                [
+                    "B14",
+                    1
+                ],
+                [
+                    "C4",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M28": {
+            "name": "Veggie Boxmeal",
+            "price": 30,
+            "contents": [
+                [
+                    "B12",
+                    5
+                ],
+                [
+                    "D2",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M29": {
+            "name": "Filet Bites Boxmeal",
+            "price": 30,
+            "contents": [
+                [
+                    "B13",
+                    9
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M30": {
+            "name": "Boneless Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "C6",
+                    5
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M31": {
+            "name": "Double Crunch Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B1",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M32": {
+            "name": "Snack box 2 Veggie Tenders",
+            "price": 30,
+            "contents": [
+                [
+                    "V2",
+                    2
+                ],
+                [
+                    "SD2",
+                    1
+                ]
+            ]
+        },
+        "M33": {
+            "name": "Fire Twister meal",
+            "price": 30,
+            "contents": [
+                [
+                    "C6",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M34": {
+            "name": "Veggie Bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "V2",
+                    10
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                }
+            ]
+        },
+        "M35": {
+            "name": "Veggie Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B7",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M36": {
+            "name": "Veggie Twister meal",
+            "price": 30,
+            "contents": [
+                [
+                    "C6",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ]
+        },
+        "M37": {
+            "name": "Veggie Kids Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "V2",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Sauces",
+                    "choose": 1
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ]
+        },
+        "M38": {
+            "name": "Variety bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "C7",
+                    4
+                ],
+                [
+                    "C4",
+                    6
+                ],
+                [
+                    "C6",
+                    4
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Sauces",
+                    "choose": 1
+                }
+            ]
+        },
+        "M39": {
+            "name": "Veggie Bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "V2",
+                    10
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M40": {
+            "name": "Family bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "C4",
+                    12
+                ],
+                [
+                    "C7",
+                    4
+                ],
+                [
+                    "C6",
+                    6
+                ],
+                [
+                    "B13",
+                    9
+                ],
+                [
+                    "SD2",
+                    4
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 4
+                }
+            ]
+        },
+        "M41": {
+            "name": "Kids Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B13",
+                    3
+                ],
+                [
+                    "C7",
+                    1
+                ],
+                {
+                    "from": "Burgers",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Sauces",
+                    "choose": 1
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ]
+        },
+        "M42": {
+            "name": "Veggie Kids Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "V2",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        },
+        "M43": {
+            "name": "Fire Zinger Stacker meal",
+            "price": 30,
+            "contents": [
+                [
+                    "B8",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+            "classes": [
+                {
+                    "class": "Menu",
+                    "properties": [
+                        {
+                            "name": "name",
+                            "dataType": ["string"]
+                        },
+                        {
+                            "name": "price",
+                            "dataType": ["float"]
+                        },
+                        {
+                            "name": "details",
+                            "dataType": ["MenuDetails"]
+                        }
+                    ]
+                },
+                {
+                    "class": "MenuDetails",
+                    "properties": [
+                        {
+                            "name": "nutritionalInfo",
+                            "dataType": ["NutritionalInfo"]
+                        },
+                        {
+                            "name": "available",
+                            "dataType": ["boolean"]
+                        }
+                    ]
+                },
+                {
+                    "class": "NutritionalInfo",
+                    "properties": [
+                        {
+                            "name": "kcal",
+                            "dataType": ["int"]
+                        },
+                        {
+                            "name": "fat",
+                            "dataType": ["int"]
+                        },
+                        {
+                            "name": "protein",
+                            "dataType": ["int"]
+                        },
+                        {
+                            "name": "itemId",
+                            "dataType": ["int"]
+                        },
+                        {
+                            "name": "allergens",
+                            "dataType": ["string", "vector"]
+                        }
+                    ]
+                }
+            ]
+        }
